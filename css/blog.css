@@ -31,7 +31,7 @@ body {
   font-size: 25px;
 }
 .myStories {
-  font-size: 30px;
+  font-size: 35px;
   height: 1400px;
   width: 100%;
   font-weight: bold;
@@ -40,7 +40,7 @@ body {
 }
 .trueWinner p {
   text-align: left;
-  font-size: 28px;
+  font-size: 32px;
   font-weight: normal;
 
 
@@ -65,15 +65,15 @@ body {
 fieldset {
   margin:80px auto;
   text-align: left;
-  font-size: 24px;
+  font-size: 30px;
 }
 legend {
-  font-size: 28px;
+  font-size: 32px;
 }
 input {
     display: block;
 
 }
 .summary p {
-  font-size: 28px;
+  font-size: 30px;
 }
