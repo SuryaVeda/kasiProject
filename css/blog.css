@@ -1,0 +1,74 @@
+body {
+  font-family: 'Patrick Hand', cursive;
+}
+.heading {
+  background-image:url(../images/background2.jpg);
+  color: black;
+  height: 600px;
+  font-size: 35px;
+  font-family: 'Patrick Hand', cursive;
+  width: 900px;
+  margin: 0 auto;
+}
+.heading h1{
+  padding-top: 25%;
+  padding-left: 27%;
+}
+.intro{
+  text-align: center;
+  font-size: 30px;
+  height:460px;
+  margin: 80px auto;
+}
+.description {
+  text-align: center;
+  margin: 80px auto;
+}
+.description h3 {
+  font-size: 30px;
+}
+.description p {
+  font-size: 25px;
+}
+.myStories {
+  font-size: 30px;
+  height: 1300px;
+  width: 100%;
+  font-weight: bold;
+  margin: 80px auto;
+  text-align: center;
+}
+.trueWinner p {
+  text-align: left;
+  font-size: 28px;
+  font-weight: normal;
+
+
+}
+.trueWinner img {
+  margin: 80px auto;
+}
+.pdf {
+  margin: 100px 42%;
+}
+.contact {
+  text-align: center;
+  margin: 120px auto;
+  font-size: 30px;
+  font-weight: bold;
+}
+fieldset {
+  margin:80px auto;
+  text-align: left;
+  font-size: 24px;
+}
+legend {
+  font-size: 28px;
+}
+input {
+    display: block;
+
+}
+.summary p {
+  font-size: 28px;
+}
